@@ -33,7 +33,7 @@ facuperka@github
 🖌️ I loved to draw and design
 🎵 Love rock argentino, jazz and blues
 ⬛ Simple and minimalist
-
+💎 Discord: acccord_
 
 
 ```
