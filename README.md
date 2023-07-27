@@ -28,7 +28,7 @@ facuperkap@github
 🌱 Learning about Cybersecurity, Rust and TypeScript
 🌟 Main languages: JavaScript, Python 
 🚩 Interested mainly in web development
-💖 In a relationship
+💖 Como le haría un buen BRRRRR a Yes
 🖌️ I loved to draw and design
 🎵 Love rock argentino, jazz and blues
 
