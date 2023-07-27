@@ -69,7 +69,7 @@ CATching bugs in code...
 ```
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/javascript-%000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/html5-%000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/typescript-%000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
