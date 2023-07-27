@@ -21,7 +21,7 @@ facuperka:~$ ./welcome.sh
 <img align="left" src="https://i.imgur.com/R72RRCg.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
-facuperkap@github
+facuperka@github
 -------------------------
 🏫 @Henry Student
 🌍 Spanish, english and a bit of portuguese
