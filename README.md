@@ -32,8 +32,10 @@ FacuPerkap@github
 🖌️ I loved to draw and design
 🎵 Love rock argentino, jazz and blues
 ⚡ Love ketchup (but not on pasta or pizza) 🍅
-💻 Total commits: {{ COMMITS }}
-⭐ Total stars gained: {{ STARS }}
+
+
+
+
 ```
 
 <p align="left">
