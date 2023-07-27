@@ -1,4 +1,4 @@
-```console
+![image](https://github.com/FacuPerka/FacuPerka/assets/103785222/9eb36aa9-64c0-4ef7-8ed2-bf8bcf2595e3)```console
 facuperka:~$ ./welcome.sh
 ```
 
@@ -28,9 +28,9 @@ facuperkap@github
 🌱 Learning about Cybersecurity, Rust and TypeScript
 🌟 Main languages: JavaScript, Python 
 🚩 Interested mainly in web development
-💖 Como le haría un buen BRRRRR a Yes
 🖌️ I loved to draw and design
 🎵 Love rock argentino, jazz and blues
+
 
 
 
