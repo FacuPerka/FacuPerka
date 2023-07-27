@@ -6,11 +6,16 @@ facuperka:~$ ./welcome.sh
  _____________________________________
 < Welcome to my personal github page! >
  ------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+        \  /\   /\  
+          //\\_//\\     ____
+          \_     _/    /   /
+           / * * \    /^^^]
+           \_\O/_/    [   ]
+            /   \_    [   /
+            \     \_  /  /
+             [ [ /  \/ _/
+             _[ [ \  /_/  
+
 ```
 
 <img align="left" src="https://i.imgur.com/R72RRCg.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
