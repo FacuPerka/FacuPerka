@@ -24,10 +24,10 @@ facuperka:~$ ./welcome.sh
 FacuPerkap@github
 -------------------------
 🏫 @Henry Student
-🔎 Main interests in AI & Cybersec
-🌱 Learning about Security, Rust and TypeScript
+🔎 Main interests in Web Development & Cybersecurity
+🌱 Learning about Cybersecurity, Rust and TypeScript
 🌟 Main languages: JavaScript, Python 
-🚩 Interested in network security and web security
+🚩 Interested mainly in web development
 💖 In a relationship
 🖌️ I loved to draw and design
 🎵 Love rock argentino, jazz and blues
