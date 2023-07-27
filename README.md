@@ -30,7 +30,7 @@ facuperkap@github
 🚩 Interested mainly in web development
 🖌️ I loved to draw and design
 🎵 Love rock argentino, jazz and blues
-
+🌍 Spanish, English and a bit of Portuguese
 
 
 
