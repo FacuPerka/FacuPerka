@@ -24,14 +24,14 @@ facuperka:~$ ./welcome.sh
 facuperkap@github
 -------------------------
 🏫 @Henry Student
+🌍 Spanish, english and a bit of portuguese
 🔎 Main interests in Web Development & Cybersecurity
 🌱 Learning about Cybersecurity, Rust and TypeScript
-🌟 Main languages: JavaScript, Python 
+🌟 Main languages: JavaScript, Python
+💻 Windows and Linux user
 🚩 Interested mainly in web development
 🖌️ I loved to draw and design
 🎵 Love rock argentino, jazz and blues
-🌍 Spanish, english and a bit of portuguese
-💻 Windows and Linux user
 ⬛ Simple and minimalist
 
 
