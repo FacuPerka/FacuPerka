@@ -1,5 +1,5 @@
 ```console
-trykatchup@github:~$ ./welcome.sh
+facuperka:~$ ./welcome.sh
 ```
 
 ```
@@ -13,7 +13,7 @@ trykatchup@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://i.imgur.com/ozKHSwi.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://i.imgur.com/DcgrC5p.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
 FacuPerkap@github
@@ -39,11 +39,11 @@ FacuPerkap@github
 </p>
 
 ```console
-trykatchup@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+facuperka@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
 
 ```
-[sudo] Password for trykatchup:
+[sudo] Password for facuperka:
 
 CATching bugs in code...
                               
