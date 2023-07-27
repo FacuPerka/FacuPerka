@@ -1,23 +1,64 @@
-<h1 align="center">Hi, I'm Facu Perka</h1>
-<h3 align="center">A passionate full-stack developer from Argentina</h3>
+```console
+trykatchup@github:~$ ./welcome.sh
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=facuperka&label=Profile%20views&color=0e75b6&style=flat" alt="facuperka" /> </p>
+```
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuperka" alt="facuperka" /></a> </p>
+<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
-- 🔭 I’m currently working on **Portfolio**
+```
+trykatchup@github
+-------------------------
+🏫 MsC Computer engineering student @Unibo
+🔎 Main interests in AI & Cybersec
+🔭 Working on Deep Learning based cybersecurity solutions
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, C/C++, Java 
+🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
+🚩 Interested in network security and web security
+💖 In a complicated relationship with Suricata IDS
+🖌️ Love drawing portraits and cute stuff, cycling, going to concerts
+🎵 Love metal, rock, jazz and blues
+⚡ Love ketchup (but not on pasta or pizza) 🍅
+💻 Total commits: {{ COMMITS }}
+⭐ Total stars gained: {{ STARS }}
+```
 
-- 🌱 I’m currently learning **Rust, TypeScript**
-
-- 📫 How to reach me **perkafacund@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="#917b88" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/95e3ed.png" width="25" height="20" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```console
+trykatchup@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facuperka&show_icons=true&locale=en&layout=compact" alt="facuperka" /></p>
+```
+[sudo] Password for trykatchup:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facuperka&show_icons=true&locale=en" alt="facuperka" /></p>
+CATching bugs in code...
+                              
+       \`*-.    [me]              
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
+```
