@@ -1,4 +1,4 @@
-![image](https://github.com/FacuPerka/FacuPerka/assets/103785222/9eb36aa9-64c0-4ef7-8ed2-bf8bcf2595e3)```console
+```console
 facuperka:~$ ./welcome.sh
 ```
 
