@@ -13,7 +13,7 @@ trykatchup@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://cdn.donmai.us/original/92/36/__bb_bb_and_bb_fate_and_1_more_drawn_by_anko_anko__9236559eb208d6213ee3d27b4be624ee.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://i.pinimg.com/564x/84/c6/d6/84c6d642fb69b33468df7b09bf2663b4.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
 FacuPerkap@github
