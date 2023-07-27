@@ -32,7 +32,7 @@ facuperkap@github
 🎵 Love rock argentino, jazz and blues
 🌍 Spanish, english and a bit of portuguese
 💻 Windows and Linux user
-
+⬛ Simple and minimalist
 
 
 
