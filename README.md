@@ -30,7 +30,7 @@ facuperka@github
 🌟 Main languages: JavaScript, Python
 💻 Windows and Linux user
 🚩 Interested mainly in web development
-🖌️ I loved to draw and design
+🖌️ Loved to draw and design
 🎵 Love rock argentino, jazz and blues
 ⬛ Simple and minimalist
 💎 Discord: acccord_
