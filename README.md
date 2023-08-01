@@ -36,8 +36,6 @@ facuperka@github
 💎 Discord: acccord_
 📱  Phone number: +54 3735 472981
 📧 Mail: perkafacund@gmail.com
-
-
 ```
 
 <p align="left">
