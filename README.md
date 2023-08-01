@@ -34,6 +34,8 @@ facuperka@github
 🎵 Love rock argentino, jazz and blues
 ⬛ Simple and minimalist
 💎 Discord: acccord_
+📱  Phone number: +54 3735 472981
+📧 Mail: perkafacund@gmail.com
 
 
 ```
