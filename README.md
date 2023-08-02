@@ -23,7 +23,7 @@ facuperka:~$ ./welcome.sh
 ```
 facuperka@github
 -------------------------
-🏫 @ Henry Student
+🏫 @ Full-Stack Developer
 🌍 Spanish, english and a bit of portuguese
 🔎 Main interests in Web Development & Cybersecurity
 🌱 Learning about Cybersecurity, Rust and TypeScript
