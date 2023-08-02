@@ -34,7 +34,7 @@ facuperka@github
 🎵 Love rock argentino, jazz and blues
 ⬛ Simple and minimalist
 💎 Discord: acccord_
-
+📧 mail: perkafacund@gmail.com
 
 ```
 
